@@ -61,10 +61,13 @@ virtuBox/
 git clone https://github.com/17gungunverma/virtuBox_project.git
 
 2️⃣ Navigate to project directory
+
 cd virtuBox
 
 3️⃣ Install backend dependencies
+
 cd backend
+
 npm install
 
 4️⃣ Configure environment variables
@@ -76,6 +79,7 @@ JWT_SECRET=your_secret_key
 PORT=5000
 
 5️⃣ Run the backend server
+
 npm start
 
 6️⃣ Open frontend
