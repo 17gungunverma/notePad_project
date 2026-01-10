@@ -56,8 +56,8 @@ virtuBox/
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the repository
-```bash
+ 1️⃣ Clone the repository
+
 git clone https://github.com/17gungunverma/virtuBox_project.git
 
 2️⃣ Navigate to project directory
