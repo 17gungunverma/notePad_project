@@ -1,6 +1,6 @@
-# VirtuBox 📝
+# Notepad 📝
 
-VirtuBox is a full-stack **Note Taking Web Application** that allows users to securely create, manage, update, and delete notes.  
+Notepad is a full-stack **Note Taking Web Application** that allows users to securely create, manage, update, and delete notes.  
 It is built using modern web technologies with authentication and a clean UI.
 
 ---
@@ -34,7 +34,7 @@ It is built using modern web technologies with authentication and a clean UI.
 
 ## 📂 Project Structure
 
-virtuBox/
+notepad/
 │
 ├── backend/
 │ ├── config/
