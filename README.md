@@ -58,11 +58,11 @@ notepad/
 
  1️⃣ Clone the repository
 
-git clone https://github.com/17gungunverma/virtuBox_project.git
+git clone https://github.com/17gungunverma/notepad_project.git
 
 2️⃣ Navigate to project directory
 
-cd virtuBox
+cd notepad
 
 3️⃣ Install backend dependencies
 
